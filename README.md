@@ -22,3 +22,5 @@ test git merge --squash --- commit v2
 test git merge and rebase --- commit v2
 test git rebase and merge --- commit v1
 test git rebase and merge --- commit v2
+
+in master branch, test git rebase && git merge..... -- commit v1
