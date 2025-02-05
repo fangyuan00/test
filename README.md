@@ -8,3 +8,5 @@ create a merge commit: the first commit
 create a merge commit: the second commit
 test manual merge: the first commit
 test manual merge: the second commit
+
+ok this is a commit from feature branch....
