@@ -7,3 +7,4 @@ squash and merge: the second commit
 create a merge commit: the first commit
 create a merge commit: the second commit
 test manual merge: the first commit
+test manual merge: the second commit
