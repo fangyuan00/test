@@ -13,3 +13,4 @@ test manual merge for the master branch - commit v2
 
 
 this is a commit in the master branch to test manual merge...
+this is a commit in the feature branch to test manual merge....... commit v2
