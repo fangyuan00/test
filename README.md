@@ -8,7 +8,7 @@ create a merge commit: the first commit
 create a merge commit: the second commit
 test manual merge: the first commit
 test manual merge: the second commit
-
+test manual merge for the master branch - commit v2
 
 
 this is a commit in the master branch to test manual merge...
