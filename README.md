@@ -20,3 +20,5 @@ this is a commit in the feature branch to test git merge --squash --- commit v1
 test git merge --squash --- commit v2
 
 test git merge and rebase --- commit v2
+test git rebase and merge --- commit v1
+test git rebase and merge --- commit v2
